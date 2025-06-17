@@ -40,6 +40,11 @@ Build a ticket managing app, where the user can _add_, _filter_ (by status), _as
 
 - Write a couple of tests. The goal here is not to build a production-quality app, so don't test every single detail. Two or three tests should be good enough.
 
+### UI
+
+![UI demo](./client/assets/list-tickets.png)
+![UI demo](./client/assets/ticket-detail.png)
+
 ### Server / API
 
 The server application is available at http://localhost:4200/api when you run `yarn start`.
